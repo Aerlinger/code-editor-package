@@ -1,0 +1,20 @@
+{
+  "docks": [
+    {
+      "docks": [
+        {
+          "active": 0,
+          "panels": [
+            "code-editor"
+          ],
+          "type": "panel"
+        }
+      ],
+      "row": true,
+      "type": "dock"
+    }
+  ],
+  "no-collapse": true,
+  "row": false,
+  "type": "dock"
+}
